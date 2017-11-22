@@ -13,7 +13,7 @@ return [
 	|
 	*/
 
-	'debug' => false, //Permite mostrar los errores en el Navegador
+	'debug' => true, //Permite mostrar los errores en el Navegador
 
 	/*
 	|--------------------------------------------------------------------------
